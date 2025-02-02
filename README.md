@@ -4,7 +4,7 @@ A simple java calculator application using java swing GUI toolkit for java. Allo
 
 - AUTHOUR : EJEH CALEB OTSE
 - MATRIC NO: U23AE1055
--DEPARTMENT: AEROSPACE ENGINERRING
+- DEPARTMENT: AEROSPACE ENGINERRING
 - GITHUB ACC: [@EjehCaleb69](https://github.com/EjehCaleb69)
 - GITHUB REPO: [SwingCalculator](https://github.com/EjehCaleb69/swing-calculator-U23AE1055)
 
